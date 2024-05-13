@@ -8,7 +8,7 @@
   ],
   "rpc": [
     {
-      "address": "http://139.180.220.229:26657",
+      "address": "https://oraibtc-rpc.perfogic.store",
       "provider": "Oraichain"
     }
   ],
