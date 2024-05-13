@@ -1,5 +1,5 @@
 {
-  "chain_name": "OraiBtcTestnet",
+  "chain_name": "OraiBTCTestnet",
   "api": [
     {
       "address": "http://139.180.220.229:8100",

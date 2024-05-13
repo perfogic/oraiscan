@@ -131,7 +131,7 @@ import { Decimal } from '@cosmjs/math';
 import { assert } from '@cosmjs/utils';
 
 export const DEFAULT_SDK_VERSION = '0.45.16';
-export const LCD_FALLBACK_CHAINS = ['OraiBtcMainnet', 'OraiBtcTestnet'];
+export const LCD_FALLBACK_CHAINS = ['OraiBtcMainnet', 'OraiBTCTestnet'];
 
 export type ExtraTxResponse = Omit<TxResponse, 'result'> & {
   txRaw: DecodedTxRaw;
