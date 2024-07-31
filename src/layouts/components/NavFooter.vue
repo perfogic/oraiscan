@@ -18,13 +18,13 @@
     <div class="hidden md:!block">
       <a
         class="link link-primary no-underline mr-4 text-white"
-        href="https://github.com/ping-pub/explorer/blob/master/LICENSE"
+        href="https://github.com/orai-us/scanium/blob/master/LICENSE"
         target="noopener noreferrer"
         >License</a
       >
       <a
         class="link link-primary no-underline text-white"
-        href="https://github.com/ping-pub/explorer"
+        href="https://github.com/orai-us/scanium"
         target="noopener noreferrer"
         >Github</a
       >
