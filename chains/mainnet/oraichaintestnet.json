@@ -1,6 +1,6 @@
 {
   "chain_name": "Oraichain Testnet",
-  "registry_name": "oraichain_testnet",
+  "registry_name": "oraichaintestnet",
   "api": [
     {
       "provider": "Oraichain Testnet",
